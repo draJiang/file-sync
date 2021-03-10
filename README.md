@@ -26,14 +26,14 @@ pip3 install openpyxl
 
 ### 下载项目
 
-[点击下载]([https://github.com/draJiang/file-sync/archive/main.zip](https://github.com/draJiang/file-sync/archive/main.zip))
+[点击下载](https://github.com/draJiang/file-sync/archive/main.zip)
 
 ### Windows
 
-直接运行 `[fileSync.py](http://filesync.py/)` 
+直接运行 `filesync.py` 
 
 ### macOS
 
-修改 `fileSync.scpt`、`[fileSync.sh](http://filesync.sh/)` 中的路径为 `[fileSync.py](http://filesync.py/)` 的绝对路径。
+修改 `fileSync.scpt`、`filesync.sh` 中的路径，修改为 `fileSync.py` 的绝对路径。
 
-直接运行 `fileSync.scpt` 或 `[fileSync.sh](http://filesync.sh/)` ；或结合 [LaunchBar]([https://www.obdev.at/products/launchbar/index.html](https://www.obdev.at/products/launchbar/index.html)) 使用。
+直接运行 `fileSync.scpt` 或 `filesync.sh` ；或结合 [LaunchBar](https://www.obdev.at/products/launchbar/index.html) 使用。
