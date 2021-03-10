@@ -1,0 +1,1 @@
+osascript 替换为fileSync.scpt文件路径
